@@ -64,6 +64,11 @@ Contains individual products included in each order.
 | price_per_unit | Selling price per unit |
 
 ---
+## 🗄️ Database Schema
+
+The EER diagram below shows the relationships between the four tables used in this project.
+
+![EER Diagram](images/eer_diagram.png)
 
 ## 🛠️ Tools & Technologies
 
