@@ -70,6 +70,17 @@ The EER diagram below shows the relationships between the four tables used in th
 
 ![EER Diagram](images/eer_diagram.png)
 
+## 📊 Analysis Screenshots
+
+### Customer Analysis
+![Customer Analysis](images/customer_analysis.png)
+
+### Product Analysis
+![Product Analysis](images/product_analysis.png)
+
+### Sales & Revenue Analysis
+![Sales & Revenue Analysis](images/sales_revenue_analysis.png)
+
 ## 🛠️ Tools & Technologies
 
 - MySQL
